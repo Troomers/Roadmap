@@ -11,7 +11,7 @@ Build a robust and scalable platform on the Solana blockchain, ensuring security
  • User Experience Design
 Design intuitive and engaging interfaces for all upcoming tools, prioritizing user-friendly navigation and functionality.
 
-Coming Soon – Trenchtools Suite!
+Coming Soon – Trenchtools Suite! Q1
 15-2 • Trenchroom – Engage with the Troomer community in an interactive chat space.
 15-2 • Trenchmemes – Create and share memes related to degen culture and crypto trends.
 16-2 • Trenchscan – Get real-time insights and analytics on cryptocurrency transactions.
